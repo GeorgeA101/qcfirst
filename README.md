@@ -8,7 +8,7 @@ The Log In Page
 ![Log In](LoginPage.PNG)
 
 The Sign Up Page
-![Sign In](SignInPage.PNG)
+![Sign In](SignUpPage.PNG)
 
 The Student Home Page
 ![Student Home Page](StudentHomePage.PNG)
