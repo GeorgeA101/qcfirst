@@ -1,0 +1,5 @@
+Paragraph Responses 
+
+Cindy Navarro
+It was not my first time developing a wireframe for an interface as I have had prior experience at an internship, which allowed for greater familiarity with wire-framing.  However, my team and I had created a wireframe for a mobile application whereas this project is for a desktop website. Although I did not learn anything new in specific to wire-framing at this phase, I did have to take further consideration about implementation details for the website.  Due to the internship’s short time period, we were not expected to create an entire final functional deliverable rather a beta version. This project is different in the sense that whatever ideas are drafted out would ideally need to be coded and functional. So, there was more thought beyond the presentational design approach when I was sketching out the paper version of the wireframe. Given my Picasso-like abilities, George and I decided that I would be responsible for drawing out a sitemap. The focus was an aesthetically pleasing layout using the actual CUNYFirst website as reference while acknowledging the practicality of implementing all features. 
+
