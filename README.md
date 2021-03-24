@@ -1,13 +1,11 @@
 # George & Cindy Repo
 Link to the wireframe project: https://app.moqups.com/SeyHLcoaSC/view/page/ab3775a33
-Link to mobile wireframe: https://app.moqups.com/2yuXby6NkD/edit/page/a35b3e7cd 
 
-# Mobile Wireframe 
-[Mobile_Wireframes.pdf](https://github.com/GeorgeA101/qcfirst/files/6194108/Mobile_Wireframes.pdf)
-
+## Deliverable 0
 The Site Map
 ![Site Map](WireFrame-SiteMap/SiteMap.PNG)
 
+![image](https://user-images.githubusercontent.com/44549977/112250381-a84e7e00-8c2f-11eb-8fc1-74f1a2347636.png)
 The Log In Page
 ![Log In](WireFrame-SiteMap/LoginPage.PNG)
 
@@ -29,3 +27,27 @@ The Instuctor Home Page
 The Manage Schedule Page
 ![Manage Schedule Page](WireFrame-SiteMap/ManageSchedulePage.PNG)
 
+## Deliverable 1
+
+### Tablet Version
+
+The Log In Page
+![Log In TV](WireFrame-SiteMap/LoginTV.PNG)
+
+The Sign Up Page
+![Sign In TV](WireFrame-SiteMap/SignUpTV.PNG)
+
+The Student Home Page
+![Student Home Page TV](WireFrame-SiteMap/StudentHomePageTV.PNG)
+
+The Enrollment Page
+![Enrollment Page TV](WireFrame-SiteMap/EnrollmentPageTV.PNG)
+
+The Class Display Page
+![Class List Display TV](WireFrame-SiteMap/ClassListTV.PNG)
+
+The Instuctor Home Page
+![Instuctor Home Page TV](WireFrame-SiteMap/InstuctorHomePageTV.PNG)
+
+The Manage Schedule Page
+![Manage Schedule Page TV](WireFrame-SiteMap/ManageScheduleTV.PNG)
