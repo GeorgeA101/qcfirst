@@ -1,9 +1,5 @@
 # George & Cindy Repo
 Link to the wireframe project: https://app.moqups.com/SeyHLcoaSC/view/page/ab3775a33
-Linke to mobile wire frame: https://app.moqups.com/2yuXby6NkD/edit/page/aa9df7b72
-
-# Mobile Wireframee
-[Mobile_Wireframes.pdf](https://github.com/GeorgeA101/qcfirst/files/6194234/Mobile_Wireframes.pdf)
 
 ## Deliverable 0
 The Site Map
@@ -59,3 +55,8 @@ The Instuctor Home Page TV <br>
 
 The Manage Schedule Page TV <br>
 ![Manage Schedule Page TV](WireFrame-SiteMap/ManageScheduleTV.PNG)
+
+Link to mobile wireframe: https://app.moqups.com/2yuXby6NkD/edit/page/a35b3e7cd 
+
+# Mobile Wireframe 
+[Mobile_Wireframes.pdf](https://github.com/GeorgeA101/qcfirst/files/6194108/Mobile_Wireframes.pdf)
