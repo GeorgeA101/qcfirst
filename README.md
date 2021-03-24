@@ -35,23 +35,23 @@ The Manage Schedule Page
 
 ### Tablet Version
 
-The Log In Page TV
+The Log In Page TV <br>
 ![Log In TV](WireFrame-SiteMap/LoginTV.PNG)
 
-The Sign Up Page TV
+The Sign Up Page TV <br>
 ![Sign In TV](WireFrame-SiteMap/SignUpTV.PNG)
 
-The Student Home Page TV
+The Student Home Page TV <br>
 ![Student Home Page TV](WireFrame-SiteMap/StudentHomePageTV.PNG)
 
-The Enrollment Page TV
-![Enrollment Page TV](WireFrame-SiteMap/EnrollmentPageTV.PNG)
+The Enrollment Page TV <br>
+![Enrollment Page TV](WireFrame-SiteMap/EnrollmetPageTV.PNG)
 
-The Class Display Page TV
+The Class Display Page TV <br>
 ![Class List Display TV](WireFrame-SiteMap/ClassListTV.PNG)
 
-The Instuctor Home Page TV
+The Instuctor Home Page TV <br>
 ![Instuctor Home Page TV](WireFrame-SiteMap/InstuctorHomePageTV.PNG)
 
-The Manage Schedule Page TV
+The Manage Schedule Page TV <br>
 ![Manage Schedule Page TV](WireFrame-SiteMap/ManageScheduleTV.PNG)
