@@ -1,5 +1,9 @@
 # George & Cindy Repo
 Link to the wireframe project: https://app.moqups.com/SeyHLcoaSC/view/page/ab3775a33
+Linke to mobile wire frame: https://app.moqups.com/2yuXby6NkD/edit/page/aa9df7b72
+
+# Mobile Wireframee
+[Mobile_Wireframes.pdf](https://github.com/GeorgeA101/qcfirst/files/6194234/Mobile_Wireframes.pdf)
 
 ## Deliverable 0
 The Site Map
